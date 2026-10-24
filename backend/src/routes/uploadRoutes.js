@@ -122,7 +122,6 @@ export async function handleUploadRoute(request, env) {
     {
       method: "POST",
       headers: {
-        Authorization: `Bearer ${env.SUPABASE_SECRET_KEY}`,
         apikey: env.SUPABASE_SECRET_KEY,
         "Content-Type": file.type,
         "x-upsert": "false",
