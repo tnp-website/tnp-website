@@ -9,11 +9,11 @@ export const alumni = [
     name: "Rahul Reddy",
     image: null,
     department: "Computer Science and Engineering",
-    yearOfPassing: "2027",
-    company: "Google",
+    yearOfPassing: "2024",
+    company: "Infosys",
     role: "Software Engineer",
     story:
-      "My journey at GPREC was filled with opportunities to learn, experiment and grow. The projects, competitions and people I met here helped me discover my passion for software engineering and gave me the confidence to pursue my goals.",
+      "Being part of the TnP Club was a valuable learning experience. Coordinating placement activities, working with a team, and communicating with students and recruiters helped me develop leadership and organizational skills that continue to benefit me in my professional journey.",
   },
 
   {
@@ -21,11 +21,11 @@ export const alumni = [
     name: "Sneha Varma",
     image: null,
     department: "Electronics and Communication Engineering",
-    yearOfPassing: "2027",
-    company: "Microsoft",
-    role: "Software Engineer",
+    yearOfPassing: "2025",
+    company: "TCS",
+    role: "Software Developer",
     story:
-      "GPREC gave me an environment where I could explore different areas of technology while learning from my peers and mentors. My time here taught me that consistent effort and curiosity can take you much further than you expect.",
+      "My time with the TnP Club taught me the importance of teamwork, responsibility, and clear communication. Being involved in organizing activities and supporting placement initiatives gave me confidence, helped me step outside my comfort zone, and prepared me to work effectively with different people.",
   },
 
   {
@@ -33,10 +33,10 @@ export const alumni = [
     name: "Arjun Kumar",
     image: null,
     department: "Mechanical Engineering",
-    yearOfPassing: "2026",
-    role: "Design Engineer",
+    yearOfPassing: "2023",
+    role: "Project Engineer",
     story:
-      "My years at GPREC were a journey of discovering what I was capable of. From classroom learning to working on projects with friends, every experience played a role in shaping the person I am today.",
+      "The TnP Club gave me opportunities to take initiative, collaborate with fellow members, and contribute to events that mattered to students. Balancing responsibilities with academics taught me time management and accountability, while every challenge helped me become more confident and adaptable.",
   },
 
   {
@@ -44,20 +44,8 @@ export const alumni = [
     name: "Ananya Reddy",
     image: null,
     department: "Electrical and Electronics Engineering",
-    yearOfPassing: "2026",
-    story:
-      "College was never just about academics for me. GPREC gave me the opportunity to participate in activities, meet people from different backgrounds and gradually understand the kind of career I wanted to build.",
-  },
-
-  {
-    id: 5,
-    name: "Karthik Rao",
-    image: null,
-    department: "Computer Science and Engineering",
     yearOfPassing: "2025",
-    company: "Amazon",
-    role: "Cloud Engineer",
     story:
-      "Looking back, my journey at GPREC was a combination of challenges, friendships, failures and small victories. Each of those experiences taught me something valuable and prepared me for the professional world.",
+      "Being a part of the TnP Club was about more than organizing events; it was about learning through shared responsibilities and experiences. Working alongside a dedicated team strengthened my problem-solving, coordination, and interpersonal skills. The experience remains an important part of my personal and professional growth.",
   },
 ];
